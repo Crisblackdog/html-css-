@@ -10,14 +10,12 @@
 }
 
 .primero{
-   flex: 1 120px
+   flex-grow: 1;
 }
 
 .segundo{
     flex-grow: 1;
-    flex-basis: 120;
 }
 .tercero{
     flex-grow: 2;
-    align-self: baseline;
 }
